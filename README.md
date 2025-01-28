@@ -1,2 +1,2 @@
 # ZumVerkauf
-Cardprint: [meinspiel.de](www.meinspiel.de)
+Cardprint: [MeinSpiel.de](https://www.meinspiel.de)
